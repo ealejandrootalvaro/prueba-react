@@ -1,3 +1,3 @@
 Para visualizar ejecutar:
 
-npm run startgit 
+npm run start
